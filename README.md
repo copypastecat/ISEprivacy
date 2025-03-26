@@ -8,7 +8,7 @@ We have a tri-weekly paper session, where each meeting, someone chooses a paper 
 Here is the schedule for 2025:
 | Date | Who? | Paper |
 | ---- | ---- | ----  |
-| 03/04/2025 - 10:00 AM | Leo | [Fingerprinting](http://proceedings.mlr.press/v40/Steinke15.pdf) |
+| 02/04/2025 - 01:00 PM | Leo | [Fingerprinting](https://arxiv.org/abs/1311.3158) |
 | 24/04/2025 - 10:00 AM | Tobias | |
 | 15/05/2025 - 10:00 AM | Mengyuan | |
 | 12/06/2025 - 10:00 AM | Sara | [What can we learn privately?](https://epubs.siam.org/doi/abs/10.1137/090756090?journalCode=smjcat) |
